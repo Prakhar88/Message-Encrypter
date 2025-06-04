@@ -142,30 +142,8 @@ The program includes robust error handling for:
 - The program uses ASCII values for character manipulation
 - Modular arithmetic ensures proper wrap-around for alphabet boundaries
 
-## 🎓 Educational Purpose
-
-This toolkit is designed for educational purposes to demonstrate classical cryptography techniques. These ciphers are **not suitable** for securing sensitive information in real-world applications.
-
-## 🤝 Contributing
-
-Feel free to contribute by:
-1. Adding new cipher algorithms
-2. Improving the user interface
-3. Adding file input/output capabilities
-4. Implementing additional security features
-
 ## 📄 License
 
 This project is open source and available under the MIT License.
-
-## 🔮 Future Enhancements
-
-Potential improvements could include:
-- File encryption/decryption capabilities
-- Batch processing
-- GUI interface
-- Additional cipher algorithms (Playfair, Rail Fence, etc.)
-- Cryptanalysis tools
-- Key generation utilities
 
 ---
